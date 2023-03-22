@@ -1,6 +1,6 @@
 ### Hi there 👋
-Aayush this side
-I'm interested in app and web development.
+Aayush this side <br>
+I'm interested in app and web development. <br>
 Newbie in competitive programming.
 
 <!--
