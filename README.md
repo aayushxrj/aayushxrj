@@ -1,5 +1,7 @@
 ### Hi there 👋
 Aayush this side
+I'm interested in app and web development.
+Newbie in competitive programming.
 
 <!--
 **aayushxrj/aayushxrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
