@@ -1,7 +1,5 @@
 ### Hi there 👋
-Aayush this side <br>
-I'm interested in app and web development. <br>
-Newbie in competitive programming.
+I'm Aayush Ranjan, and I'm passionate about web development and competitive coding.
 
 <!--
 **aayushxrj/aayushxrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
