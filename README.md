@@ -2,9 +2,10 @@
 <h3 align="center">I'm passionate about web development and competitive coding.</h3>
 
 
-- 🔭 I’m currently working on [Password Buddy](https://github.com/aayushxrj/Password-Buddy)
+<!-- - 🔭 I’m currently working on [Password Buddy](https://github.com/aayushxrj/Password-Buddy) -->
+-  🔭 I’m currently working on [Blog Website](https://github.com/aayushxrj/Blog-Website)
 
-- 🌱 I’m currently learning **Web development.**
+- 🌱 I’m currently learning **Backend Development of Web-Applications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
